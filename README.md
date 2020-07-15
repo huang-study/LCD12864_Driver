@@ -31,5 +31,5 @@
 	- 20--背光负极
 - 参考信息：
 	- [lcd12864引脚图及功能](http://www.elecfans.com/xianshi/jishu/20171106575409.html)
-	- [STM32 LCD12864 串行通信模式 (从原理让你理解)]https://blog.csdn.net/as480133937/article/details/97650805)
+	- [STM32 LCD12864 串行通信模式 (从原理让你理解)](https://blog.csdn.net/as480133937/article/details/97650805)
 	- [74HC595引脚图时序图工作原理及pdf中文资料](http://www.51hei.com/chip/3978.html)
